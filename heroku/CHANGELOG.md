@@ -3,102 +3,73 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [7.18.4](https://github.com/heroku/cli/compare/v7.18.3...v7.18.4) (2018-11-02)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-## [7.18.3](https://github.com/heroku/cli/compare/v7.18.2...v7.18.3) (2018-10-18)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-## [7.18.2](https://github.com/heroku/cli/compare/v7.18.1...v7.18.2) (2018-10-17)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-## [7.18.1](https://github.com/heroku/cli/compare/v7.18.0...v7.18.1) (2018-10-17)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-# [7.18.0](https://github.com/heroku/cli/compare/v7.17.2...v7.18.0) (2018-10-17)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-## [7.17.2](https://github.com/heroku/cli/compare/v7.17.1...v7.17.2) (2018-10-16)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-## [7.17.1](https://github.com/heroku/cli/compare/v7.17.0...v7.17.1) (2018-10-16)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-# [7.17.0](https://github.com/heroku/cli/compare/v7.16.8...v7.17.0) (2018-10-15)
-
-
-### Features
-
-* node 10.12.0 ([9f5b635](https://github.com/heroku/cli/commit/9f5b635))
-
-
-
-
-
-## [7.16.8](https://github.com/heroku/cli/compare/v7.16.7...v7.16.8) (2018-10-11)
-
-**Note:** Version bump only for package heroku
-
-
-
-
-
-## [7.16.7](https://github.com/heroku/cli/compare/v7.16.6...v7.16.7) (2018-10-10)
+## [7.19.3](https://github.com/heroku/cli/compare/v7.19.2...v7.19.3) (2018-12-04)
 
 
 ### Bug Fixes
 
-* updated command ([fbd11fd](https://github.com/heroku/cli/commit/fbd11fd))
+* remove login warnings ([39d8c47](https://github.com/heroku/cli/commit/39d8c47))
 
 
 
 
 
-## [7.16.6](https://github.com/heroku/cli/compare/v7.16.5...v7.16.6) (2018-10-05)
+## [7.19.2](https://github.com/heroku/cli/compare/v7.19.1...v7.19.2) (2018-12-04)
+
+**Note:** Version bump only for package heroku
+
+
+
+
+
+## [7.19.1](https://github.com/heroku/cli/compare/v7.19.0...v7.19.1) (2018-12-04)
 
 
 ### Bug Fixes
 
-* node 10.11.0 ([5bfa4ec](https://github.com/heroku/cli/commit/5bfa4ec))
+* node 11.3.0 ([a685839](https://github.com/heroku/cli/commit/a685839))
 
 
 
 
+
+# [7.19.0](https://github.com/heroku/cli/compare/v7.18.10...v7.19.0) (2018-12-03)
+
+
+### Bug Fixes
+
+* updated command ([1c49051](https://github.com/heroku/cli/commit/1c49051))
+
+
+
+
+
+## [7.18.10](https://github.com/heroku/cli/compare/v7.18.9...v7.18.10) (2018-11-26)
+
+
+### Bug Fixes
+
+* updated deps ([576c85a](https://github.com/heroku/cli/commit/576c85a))
+
+
+
+
+
+## [7.18.9](https://github.com/heroku/cli/compare/v7.18.8...v7.18.9) (2018-11-15)
+
+**Note:** Version bump only for package heroku
+
+
+
+
+
+<a name="7.18.8"></a>
+## [7.18.8](https://github.com/heroku/cli/compare/v7.18.7...v7.18.8) (2018-11-14)
+
+
+
+
+**Note:** Version bump only for package heroku
 
 <a name="7.16.5"></a>
 ## [7.16.5](https://github.com/heroku/cli/compare/v7.16.4...v7.16.5) (2018-10-04)

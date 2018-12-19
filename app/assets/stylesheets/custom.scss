@@ -15,6 +15,17 @@ $gray-medium-light: #eaeaea;
 
 body {
   padding-top: 60px;
+  
+  background-image: url("webservice-imfree-5.jpg");
+  
+  background-position:center center;
+  
+  background-repeat:no-repeat;
+  
+  background-attachment:fixed;
+  
+  background-size:cover;
+  
 }
 
 section {
@@ -26,6 +37,7 @@ textarea {
 }
 
 .center {
+  background-color: rgba(255,0,0,0);
   text-align: center;
   h1 {
     margin-bottom: 10px;
@@ -62,11 +74,22 @@ p {
 
 /* header */
 
+
+.navbar-inverse {
+    background-color: #808080;
+}
+
+
+
 #logo {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-  color: white;
+  
+  
+  color: #FFFF00; 
+  
+  
   text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
@@ -83,11 +106,11 @@ footer {
   margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid $gray-medium-light;
-  color: $gray-light;
+  color:#FFFF00;
   a {
-    color: $gray;
+    color: #FFFF00;
     &:hover {
-      color: $gray-darker;
+      color: #FFFF00;
     }
   }
   small {
