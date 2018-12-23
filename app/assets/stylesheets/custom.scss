@@ -182,7 +182,7 @@ aside {
     float: left;
     padding: 0 10px;
     border-left: 1px solid $gray-lighter;
-    color: gray;
+    color: #FFCC33;
     &:first-child {
       padding-left: 0;
       border: 0;
@@ -194,6 +194,7 @@ aside {
   }
   strong {
     display: block;
+    color: #FFCC33;
   }
 }
 
@@ -284,13 +285,14 @@ input {
   .content {
     display: block;
     margin-left: 60px;
+    color: #FFF;
     img {
       display: block;
       padding: 5px 0;
     }
   }
   .timestamp {
-    color: $gray-light;
+    color: #FFCC33;
     display: block;
     margin-left: 60px;
   }
@@ -309,6 +311,7 @@ aside {
 }
 
 span.picture {
+  color: #FFCC33;
   margin-top: 10px;
   input {
     border: 0;
