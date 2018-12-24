@@ -22,7 +22,7 @@ class UsersController < ApplicationController
     @user = User.new(user_params)
     if @user.save
       @user.send_activation_email
-      flash[:info] = "メールをチェックしてアカウントを有効にしてください"
+      flash[:info] = "メールをチェックしてアカウントを有効にしてください。"
       redirect_to root_url
     else
       render 'new'
@@ -36,7 +36,7 @@ class UsersController < ApplicationController
   def update
     @user = User.find(params[:id])
     if @user.update_attributes(user_params)
-      flash[:success] = "更新しました！"
+      flash[:success] = "更新しました。"
       redirect_to @user
     else
       render 'edit'
@@ -45,7 +45,7 @@ class UsersController < ApplicationController
   
   def destroy
     User.find(params[:id]).destroy
-    flash[:success] = "削除しました"
+    flash[:success] = "削除しました。"
     redirect_to users_url
   end
   

@@ -16,7 +16,7 @@ $gray-medium-light: #eaeaea;
 body {
   padding-top: 60px;
   
-  background-image: url("3662295869_9cd5b175bf_o");
+  background-image: url("c060b618f9a5bd76768ca7e6f3ca0707_t");
   
   background-position:center center;
   
@@ -38,7 +38,7 @@ textarea {
 
 .center {
   background-color: rgba(255,0,0,0);
-  color: #FFCC33;
+  color: #BB0000;
   text-align: center;
   h1 {
     margin-bottom: 10px;
@@ -64,7 +64,7 @@ h2 {
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
-  color: #FF6633;
+  color: #444444;
 }
 
 p {
@@ -182,7 +182,7 @@ aside {
     float: left;
     padding: 0 10px;
     border-left: 1px solid $gray-lighter;
-    color: #FFCC33;
+    color: #000;
     &:first-child {
       padding-left: 0;
       border: 0;
@@ -194,7 +194,7 @@ aside {
   }
   strong {
     display: block;
-    color: #FFCC33;
+    color: #000;
   }
 }
 
@@ -285,7 +285,7 @@ input {
   .content {
     display: block;
     margin-left: 60px;
-    color: #FFF;
+    color: #000;
     img {
       display: block;
       padding: 5px 0;
@@ -311,7 +311,7 @@ aside {
 }
 
 span.picture {
-  color: #FFCC33;
+  color: #000;
   margin-top: 10px;
   input {
     border: 0;
