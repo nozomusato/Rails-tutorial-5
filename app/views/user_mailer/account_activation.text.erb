@@ -1,5 +1,5 @@
 Hi <%= @user.name %>,
 
-MUSICIANS-Communityへようこそ！アカウントを有効にするには、下のリンクからアカウントの有効化を行ってください。:
+MUSICIANS-COMMUNITYへようこそ！アカウントを有効にするには、次のリンクからアカウントの有効化を行ってください。:
 
 <%= edit_account_activation_url(@user.activation_token, email: @user.email) %>
